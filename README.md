@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in Express.js applications related to parsing JSON request bodies. The bug occurs when the request body is either empty or contains invalid JSON data. The solution involves adding error handling to gracefully handle these situations and provide informative error messages.
